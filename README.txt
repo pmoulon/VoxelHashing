@@ -1,5 +1,5 @@
 You are free to use this code with proper attribution in non-commercial applications (Please see License.txt).
-We are also happy to allow free commercial use; however, in that case we would like you to conact us first.
+We are also happy to allow free commercial use; however, in that case we would like you to contact us first.
 For use in a publication or presentation, please cite the VoxelHashing publication(s).
 
 
